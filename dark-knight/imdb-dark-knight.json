@@ -1,0 +1,275 @@
+{
+  "children": [
+    { "text": "The Dark Knight" },
+    { "text": 2008 },
+    { "text": "PG-13" },
+    { "text": "2h 32min" },
+    {
+      "children": [
+        { "text": "Action" },
+        { "text": "Crime" },
+        { "text": "Drama" }
+      ]
+    },
+    { "text": "18 July 2008 (USA)" },
+    {
+      "text": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "edge": "Director:",
+      "text": "Christopher Nolan"
+    },
+    {
+      "edge": "Writers:",
+      "children": [
+        {
+          "attrs": {
+            "1": { "text": "Jonathan Nolan" },
+            "2": { "text": "(screenplay)" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Christopher Nolan" },
+            "2": { "text": "(screenplay)" }
+          }
+        }
+      ]
+    },
+    {
+      "edge": "Stars:",
+      "children": [
+        { "text": "Christian Bale" },
+        { "text": "Heath Ledger" },
+        { "text": "Aaron Eckhart" }
+      ]
+    },
+    {
+      "edge": "Cast",
+      "children": [
+        {
+          "attrs": {
+            "1": { "text": "Christian Bale" },
+            "2": { "text": "Bruce Wayne" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Heath Ledger" },
+            "2": { "text": "Joker" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Aaron Eckhart" },
+            "2": { "text": "Harvey Dent" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Michael Caine" },
+            "2": { "text": "Alfred" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Maggie Gyllenhaal" },
+            "2": { "text": "Rachel" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Gary Oldman" },
+            "2": { "text": "Gordon" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Morgan Freeman" },
+            "2": { "text": "Lucius Fox" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Monique Gabriela Curnen" },
+            "2": { "text": "Ramirez" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Ron Dean" },
+            "2": { "text": "Wuertz" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Cillian Murphy" },
+            "2": { "text": "Scarecrow" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Chin Han" },
+            "2": { "text": "Lau" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Nestor Carbonell" },
+            "2": { "text": "Mayor" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Eric Roberts" },
+            "2": { "text": "Maroni" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Ritchie Coster" },
+            "2": { "text": "Chechen" }
+          }
+        },
+        {
+          "attrs": {
+            "1": { "text": "Anthony Michael Hall" },
+            "2": { "text": "Mike Engel" }
+          }
+        }
+      ]
+    },
+    {
+      "edge": "Storyline",
+      "text": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as \"The Joker\" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes. Written by Leon Lombardi"
+    },
+    {
+      "edge": "Plot Keywords:",
+      "children": [
+        { "text": "dc comics" },
+        { "text": "joker" },
+        { "text": "psychopath" },
+        { "text": "clown" },
+        { "text": "criminal mastermind" }
+      ]
+    },
+    {
+      "edge": "Taglines:",
+      "text": "I believe in Harvey Dent."
+    },
+    {
+      "edge": "Genres:",
+      "children": [
+        { "text": "Action" },
+        { "text": "Crime" },
+        { "text": "Drama" },
+        { "text": "Thriller" }
+      ]
+    },
+    {
+      "edge": "Motion Picture Rating (MPAA)",
+      "text": "Rated PG-13 for intense sequences of violence and some menace"
+    },
+    {
+      "edge": "User Reviews",
+      "children": [
+        {
+          "attrs": {
+            "1": { "text": "Fantastic!" },
+            "2": { "text": "11 January 2012" },
+            "3": { "text": "krazycrukids" },
+            "4": {
+              "text": "Im just gonna start off by saying I LOVE this movie.Its one of my favorites of all time. I honestly cant think of too much wrong with this movie other than its a little long and Batmans by now infamous voice. But everything else is top notch. The acting,story,atmosphere,and actions scenes are all amazing. If you haven't seen this movie see it right now! I went into this not expecting to much but I came out blown away, I cant imagine any movie being much better. I'll just have to wait for The Dark Knight Rises to release to see if anything can be better. Until then, this stands as the best movie I've ever seen"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "edge": "Frequently Asked Questions",
+      "children": [
+        { "text": "Does Jack Nicholson have a cameo in the film?" },
+        {
+          "text": "How does Bruce get a penthouse connected to a secret garage?"
+        },
+        { "text": "What are the references to \"Batman\" comic books?" }
+      ]
+    },
+    {
+      "edge": "Official Sites:",
+      "children": [
+        { "text": "Official Facebook" },
+        { "text": "Why So Serious" }
+      ]
+    },
+    {
+      "edge": "Country:",
+      "children": [{ "text": "USA" }, { "text": "UK" }]
+    },
+    {
+      "edge": "Language:",
+      "children": [{ "text": "English" }, { "text": "Mandarin" }]
+    },
+    {
+      "edge": "Release Date:",
+      "text": "18 July 2008 (USA)"
+    },
+    {
+      "edge": "Also Known As:",
+      "text": "Batman Begins 2"
+    },
+    {
+      "edge": "Filming Locations:",
+      "children": [
+        { "text": "Times Square" },
+        { "text": "Causeway Bay" },
+        { "text": "Hong Kong" }
+      ]
+    },
+    {
+      "edge": "Budget:",
+      "children": [{ "text": "$185,000,000 (estimated)" }]
+    },
+    {
+      "edge": "Opening Weekend USA:",
+      "text": "$158,411,483, 20 July 2008"
+    },
+    {
+      "edge": "Gross USA:",
+      "text": "$535,234,033"
+    },
+    {
+      "edge": "Cumulative Worldwide Gross:",
+      "text": "$1,005,456,758"
+    },
+    {
+      "edge": "Production Co:",
+      "children": [
+        { "text": "Warner Bros." },
+        { "text": "Legendary Entertainment" },
+        { "text": "Syncopy" }
+      ]
+    },
+    {
+      "edge": "Runtime:",
+      "text": "152 min"
+    },
+    {
+      "edge": "Sound Mix:",
+      "children": [
+        { "text": "Dolby Digital" },
+        { "text": "SDDS" },
+        { "text": "DTS" },
+        { "text": "IMAX 6-Track" }
+      ]
+    },
+    {
+      "edge": "Color:",
+      "text": "Color (Technicolor)"
+    },
+    {
+      "edge": "Aspect Ratio:",
+      "text": "2.39 : 1"
+    }
+  ]
+}
