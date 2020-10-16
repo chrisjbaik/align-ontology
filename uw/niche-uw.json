@@ -1,0 +1,88 @@
+{
+  "children": [
+    { "text": "University of Washington" },
+    { "text": "4 Year" },
+    { "text": "Seattle, WA" },
+    {
+      "text": "University of Washington is a highly rated public university located in Seattle, Washington. It is a large institution with an enrollment of 29,496 undergraduate students. Admissions is fairly competitive as the University of Washington acceptance rate is 49%. Popular majors include Research and Experimental Psychology, Communications, and Political Science and Government. Graduating 84% of students, University of Washington alumni go on to earn a starting salary of $44,900."
+    },
+    { "text": "washington.edu" },
+    { "text": "1410 NE Campus Parkway\nSeattle, WA 98195" },
+    { "edge": "Athletic Division", "text": "NCAA Division I-FBS" },
+    { "edge": "Athletic Conference", "text": "Pacific-12 Conference" },
+    {
+      "edge": "Branch Campuses of University of Washington",
+      "children": [
+        { "text": "University of Washington - Tacoma" },
+        { "text": "University of Washington - Bothell" }
+      ]
+    },
+    { "edge": "Acceptance Rate", "text": "49%" },
+    { "edge": "Application Deadline", "text": "November 15" },
+    { "edge": "SAT Range", "text": "1220-1460" },
+    { "edge": "ACT Range", "text": "27-32" },
+    { "edge": "Application Fee", "text": "$80" },
+    { "edge": "SAT/ACT", "text": "Neither required nor recommended" },
+    { "edge": "High School GPA", "text": "Required" },
+    { "edge": "Early Decision/Early Action", "text": "No" },
+    {
+      "edge": "Application Website",
+      "text": "http://admit.washington.edu/apply"
+    },
+    {
+      "edge": "Students also applied to ...",
+      "children": [
+        { "text": "Seattle University" },
+        { "text": "Seattle Pacific University" },
+        { "text": "Central Washington University" }
+      ]
+    },
+    { "edge": "Net Price", "text": "$9,765/year" },
+    { "edge": "Average Total Aid Awarded", "text": "$12,756/year" },
+    { "edge": "Students Receiving Financial Aid", "text": "61%" },
+    { "edge": "Professors", "text": "A" },
+    { "edge": "Student Faculty Ratio", "text": "19:1" },
+    { "edge": "Evening Degree Programs", "text": "Yes" },
+    {
+      "edge": "Most Popular Majors",
+      "children": [
+        { "1": "Research and Experimental Psychology", "2": "484" },
+        { "1": "Communications", "2": "452" },
+        { "1": "Political Science and Government", "2": "352" }
+      ]
+    },
+    { "edge": "Online Programs Offered", "text": "2" },
+    { "edge": "Offers Online Courses", "text": "Yes" },
+    { "edge": "Online Certificate Programs", "text": "0" },
+    { "edge": "Online Associates Programs", "text": "0" },
+    { "edge": "Online Bachelor's Programs", "text": "2" },
+    {
+      "edge": "How Students Learn",
+      "children": [
+        { "1": "Mix of Online and Campus", "2": "9%" },
+        { "1": "On Campus", "2": "90%" },
+        { "1": "Online", "2": "1%" }
+      ]
+    },
+    { "edge": "Full-Time Enrollment", "text": "29,496 Undergrads" },
+    { "edge": "Part-Time Undergrads", "text": "2,603" },
+    { "edge": "Undergrads Over 25", "text": "5%" },
+    { "edge": "Pell Grant", "text": "22%" },
+    { "edge": "Varsity Athletes", "text": "2%" },
+    {
+      "edge": "Median Earnings 6 Years After Graduation",
+      "text": "$57,700/year"
+    },
+    { "edge": "Graduation Rate", "text": "84%" },
+    { "edge": "Employed 2 Years After Graduation", "text": "91%" },
+    {
+      "edge": "Colleges like University of Washington",
+      "children": [
+        { "text": "Seattle University" },
+        { "text": "Seattle Pacific University" },
+        { "text": "Central Washington University" },
+        { "text": "Washington State University" }
+      ]
+    }
+  ]
+}

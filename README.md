@@ -42,7 +42,7 @@ There are a few cases to consider:
      `152`, and the other in seconds: `9120`.
 
    - _Precision differences_: The gross box office is listed precisely as
-     `$1,005,456,758` for IMDB while DBPedia lists it as `1.85E8`.
+     `$1,005,456,758` for IMDB while DBPedia lists it as `1.005E9`.
 
 2. **Extracted values not in KB**: These are cases where the extracted `E_R`
    values have corresponding attributes in the existing schema, but the existing
@@ -93,3 +93,17 @@ There are a few cases to consider:
      - Both relations exist in the schema, but the pairing relationship does
        not. (How does this generalize when n >= 2?)
      - Only one of the relations currently exist in the schema.
+
+## Observations
+
+- When looking at a single page, the schema is pretty "flat" - i.e. a tree with
+  many branches, but low depth.
+- Knowledge from one branch is unlikely to transfer to another, because they are
+  dealing with different properties with different semantics, and these semantics
+  don't recur often.
+- While a few sub-problems such as inferring entity classes might be possible to
+  automate at scale using the noisy signal of overlapping extracted/existing data
+  (the primary contribution of Luna/Colin's line of work), most of the sub-problems
+  require significant user intervention. For example, only a user with domain
+  expertise can realistically classify whether a mismatch is due to naming discrepancy
+  or a difference in semantics.
