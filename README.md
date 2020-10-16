@@ -84,6 +84,12 @@ There are a few cases to consider:
 
    - Is there a way to identify this automatically?
 
-   - _Complete miss_:
+   - _Complete miss_: Need to add new relation to schema.
 
-   - _Partial miss_:
+   - _Partial miss_: An example is where the IMDb website pairs an actor and
+     character, a release date with release location, and a writer with the
+     content they contributed. There are a few sub-cases for this:
+
+     - Both relations exist in the schema, but the pairing relationship does
+       not. (How does this generalize when n >= 2?)
+     - Only one of the relations currently exist in the schema.
