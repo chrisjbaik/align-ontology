@@ -220,11 +220,7 @@
     },
     {
       "edge": "Filming Locations:",
-      "children": [
-        { "text": "Times Square" },
-        { "text": "Causeway Bay" },
-        { "text": "Hong Kong" }
-      ]
+      "children": [{ "text": "Times Square, Causeway Bay, Hong Kong" }]
     },
     {
       "edge": "Budget:",
